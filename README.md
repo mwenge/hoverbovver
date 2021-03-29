@@ -4,6 +4,8 @@
 
 This is the reverse-engineered and [commented source code] for the 1986 Commodore 64 game Hover Bovver by Jeff Minter. Following the build instructions below you can compile and run Hover Bovver from scratch yourself on a Linux or Windows desktop. 
 
+You can play Hover Bovver  in your browser at https://mwenge.github.io/hoverbovver/. (Ctrl key is 'Fire', Arrow Keys to move.)
+
 ## Current Status
 The game compiles and plays. Lots of redundant data and code still need to be removed. Commenting/labelling not started. 
 
